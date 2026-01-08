@@ -81,6 +81,17 @@ Basic data validation was performed to:
 
 ---
 
+## 📷 Dashboard Preview
+
+Below are screenshots from the interactive **Google Looker Studio dashboard**, highlighting key performance metrics, campaign trends, and audience insights
+
+
+<img width="1095" height="864" alt="image" src="https://github.com/user-attachments/assets/c11f817c-5384-4f30-893b-b854867d02e6" />
+
+
+<img width="1040" height="749" alt="image" src="https://github.com/user-attachments/assets/493fe81b-5aed-4aa3-82fc-b3b5496cda94" />
+
+
 ## 7️⃣ Analytical Approach
 
 The analysis was conducted using the following framework:
