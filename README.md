@@ -1,4 +1,4 @@
-# 📊 Market Campaign Analysis – Google Looker Studio
+# 📊 Market Campaign Analysis
 
 ## 1️⃣ Business Problem Statement
 
