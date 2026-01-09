@@ -1,5 +1,4 @@
-# 📊 Market Campaign Analysis  
-### End-to-End Marketing Analytics using Google Looker Studio
+# 📊 Market Campaign Analysis
 
 ---
 
